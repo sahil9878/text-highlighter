@@ -1,0 +1,7 @@
+.highlight-popup{
+    position: fixed;
+    z-index: 10000;
+    border: 1px solid black;
+    background: white;
+    padding: 20px;
+}
